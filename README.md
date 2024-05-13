@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ```
 
 3. Installing External Libraries (ffmpeg)
+
 Ubuntu
 ```sh
 sudo apt-get install ffmpeg
