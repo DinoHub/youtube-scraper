@@ -8,6 +8,22 @@ To scrape paired subtitles of English - X (where X is another language)
 git checkout mt-subtitles
 ```
 
+2. Installing Requirements
+```sh
+pip install -r requirements.txt
+```
+
+3. Installing External Libraries (ffmpeg)
+
+Ubuntu
+```sh
+sudo apt-get install ffmpeg
+```
+macOS
+```sh
+brew install ffmpeg
+```
+
 ## MT Subtitles
 This Branch is the MT Subtitle Branch. Follow the steps below to scrape subtitles!
 
